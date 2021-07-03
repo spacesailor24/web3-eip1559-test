@@ -1,0 +1,7 @@
+{
+    "ropsten": {
+        "providerUrl": "https://ropsten.infura.io/v3/",
+        "address": "0x",
+        "privateKey": "0x"
+    }
+}
