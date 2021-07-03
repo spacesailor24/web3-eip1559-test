@@ -6,7 +6,7 @@
   "author": "Wyatt Barnes <me@wyatt.email>",
   "license": "MIT",
   "scripts": {
-    "start": "npx tsc index.ts && node index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "web3": "../../ChainSafe/git-repos/web3.js"
